@@ -1,6 +1,6 @@
 # Unlocking Insights with Power BI
 
-This analysis (the final project from the course) provides Adventure Works' executive board and sales management team with the insights they need to make informed strategic decisions for the upcoming quarter. The goal is to craft a compelling data story through a dashboard that delivers a quick, high-level snapshot of quarterly sales performance for the executive board. A detailed, interactive report will also be created for the sales management team, offering a deeper dive into sales trends for the same period. Key insights will be highlighted, such as top-performing regions, product categories, and sales representatives. Finally, a clear and concise summary will provide actionable takeaways for both leadership and management, ensuring data-driven decision-making.
+This analysis provides Adventure Works' executive board and sales management team with the insights they need to make informed strategic decisions for the upcoming quarter. The goal is to craft a compelling data story through a dashboard that delivers a quick, high-level snapshot of quarterly sales performance for the executive board. A detailed, interactive report will also be created for the sales management team, offering a deeper dive into sales trends for the same period. Key insights will be highlighted, such as top-performing regions, product categories, and sales representatives. Finally, a clear and concise summary will provide actionable takeaways for both leadership and management, ensuring data-driven decision-making.
 
 ## Key Takeaways:
 
