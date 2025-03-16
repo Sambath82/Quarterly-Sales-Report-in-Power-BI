@@ -11,7 +11,7 @@ This analysis (the final project from the course) provides Adventure Works' exec
 📌 Check out the interactive report here: [Power BI Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiZWQ4ZTQ0NWQtMzM0MC00N2FkLTgwY2MtNzM3ODA2MDFhYzdlIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9)
 
 ## Dashboard:
-![Image](https://github.com/user-attachments/assets/8ea578d7-2338-455b-ae6d-bf6b51f3e8e9)
+![Image](https://github.com/user-attachments/assets/f315dfa2-74f1-4620-8bda-ea7dae167579)
 
 ## Report:
 ![Image](https://github.com/user-attachments/assets/80c022c2-c843-428c-b71c-d2f0ccb2c02c)
