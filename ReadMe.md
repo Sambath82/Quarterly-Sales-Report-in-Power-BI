@@ -14,7 +14,7 @@ This project serves as the final capstone of my course, where I used Power BI to
 ## Key Insights
 
 ### Sales Performance and Profitability
-The dashboard reveals a significant 56% increase in sales for Q1 compared to last year, but the profit margin remains at a low 0.06%.
+The dashboard reveals a significant 56% increase in sales for Q1 in 2020 compared to last year, but the profit margin remains at a low 0.06%.
 
 **Insight:** This may indicate high operational costs, excessive discounts, or inefficient cost management. Further cost analysis is needed to optimize profitability.
 
